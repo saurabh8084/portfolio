@@ -11309,9 +11309,9 @@ body.template-color-1 {
   transition: all 0.3s ease-in-out 0s;
 }
 .left-header-style .logo-area a img {
-  border-radius: 50%;
+/*   border-radius: 50%;
   border: 5px solid #32363b;
-  box-shadow: var(--shadow-1);
+  box-shadow: var(--shadow-1); */
 }
 .left-header-style #sideNavs .primary-menu {
   display: block;
